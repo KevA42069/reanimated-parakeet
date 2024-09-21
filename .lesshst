@@ -1,0 +1,3 @@
+.less-history-file:
+.search
+"adb.client import Client as AdbClient
